@@ -16,7 +16,7 @@ and put it inside the main directory
 ```
 https://archive.ics.uci.edu/ml/datasets/Sentiment+Labelled+Sentences
 ```
-and insert into a folder name "data" that you create.
+and insert it into a folder named "data" that you create.
 
 ## Citation
 'From Group to Individual Labels using Deep Features', Kotzias et. al,. KDD 2015
